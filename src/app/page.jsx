@@ -18,9 +18,9 @@ export default async function Home() {
           size={40}
           className="animate-spin duration-1000 text-sky-400"
         ></FaReact>
-        <IoShieldCheckmarkSharp size={50} className="text-yellow-500" />
-        <RiNextjsLine size={50}></RiNextjsLine>
-        <SiMongodb size={50} className="text-green-600"></SiMongodb>
+        <IoShieldCheckmarkSharp size={50} className="text-yellow-500 " />
+        <RiNextjsLine  size={50}></RiNextjsLine>
+        <SiMongodb size={50} className="text-green-600 animate-spin"></SiMongodb>
       </div>
       <div className="relative">
         <h2 className="text-5xl">NEXT AUTH</h2>
